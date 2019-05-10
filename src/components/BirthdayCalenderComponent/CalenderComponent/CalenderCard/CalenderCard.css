@@ -1,0 +1,27 @@
+.CalenderCard {
+    background:white;
+    border: 1px solid gray;
+    width: 10%;
+    color: white;
+   
+}
+
+.CalenderCard .Header {
+    border-radius: 2px 2px 0px 0px;
+    text-align: right;
+    
+}
+
+.CalenderCard .Header p{
+    background:#9887e5;
+    padding: 5px;
+    text-align: right;
+    
+}
+
+.CalenderCard .Data{
+    display: flex;
+    flex-direction: row;   
+    flex-wrap: wrap;
+   
+}

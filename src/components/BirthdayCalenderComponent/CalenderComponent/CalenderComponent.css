@@ -1,0 +1,8 @@
+.CalenderComponent {
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+    height: 20vh;
+    min-height: 100px;
+    
+}
